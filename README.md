@@ -27,3 +27,6 @@ The earthquake data is sourced from the [USGS Earthquake Hazards Program](https:
 - `styles.css`: Contains the styling for the map and other elements.
 - `README.md`: This file, explaining the project and how to run it.
 
+To access the webpage
+pLease follow the below link
+https://rahulsharma1016.github.io/leaflet-challenge/
